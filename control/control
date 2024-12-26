@@ -1,0 +1,4 @@
+Package: micro
+Version: 
+Architecture: aarch64-3.10
+Description: A modern and intuitive terminal-based text editor
